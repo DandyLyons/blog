@@ -1,4 +1,0 @@
-# Hugo defaults to using posts, tags and categories out of the box and this will work fine if that’s what you want. If you wish to customise this, however, you can do so by creating a taxonomies.toml configuration
-# This will replace the default tags and categories with topics. Refer to the Hugo Taxonomy docs for more information on naming taxonomies.
-topic = "topics"
-# project = "projects"
