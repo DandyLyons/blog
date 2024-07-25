@@ -1,0 +1,5 @@
+baseURL: https://dandylyons.github.io/blog
+# basePath: "blog"
+languageCode: en-us
+title: Strongly Typed
+theme: congo
