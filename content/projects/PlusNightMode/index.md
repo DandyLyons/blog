@@ -1,9 +1,11 @@
 ---
 title: PlusNightMode
+date: 2023-08-01
 ---
 
 ## Available at
-- [App Store](https://apps.apple.com/us/app/hawaiian-vocab/id6478062401)
+- [GitHub](https://github.com/DandyLyons/PlusNightMode)
+- [Swift Package Index](https://swiftpackageindex.com/DandyLyons/PlusNightMode)
 
 ## Tech Stack 
 | Component    | Tech                              |

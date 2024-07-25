@@ -32,6 +32,15 @@
           {{ end }}
         </div>
       {{ end }}
+
+      {{ if .Params.series }}
+        {{ with index (.GetTerms "series") 0 }}
+          <div class="notice">
+            <p><i>This post is part of the <a href="{{ .Permalink }}"><strong>{{ .LinkTitle }}</strong></a> series.</i></p>
+          </div>
+          <br>
+        {{ end }}
+      {{ end }}
     </header>
     <section class="prose mt-0 flex max-w-full flex-col dark:prose-invert lg:flex-row">
       {{ if and (.Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false)) (in .TableOfContents "<ul") }}

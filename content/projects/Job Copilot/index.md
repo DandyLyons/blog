@@ -2,9 +2,11 @@
 title: Job Copilot
 projects: ['Job Copilot']
 ---
+<a href="https://apps.apple.com/app/kaomoji-fonts-aesthetext/id6502849857">
+  <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store">
+</a>
 
-##### Available at:
-- [App Store]
+*Job Copilot is currently available for pre-release testing.*
 
 ## Tech Stack 
 | Component    | Tech                              |

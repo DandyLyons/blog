@@ -6,6 +6,35 @@
     <description>Recent content in Topics on Strongly Typed</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generics</title>
+      <link>http://localhost:1313/blog/topics/generics/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/topics/generics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Swift</title>
+      <link>http://localhost:1313/blog/topics/swift/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/topics/swift/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SwiftUI</title>
+      <link>http://localhost:1313/blog/topics/swiftui/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/topics/swiftui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/blog/topics/javascript/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/topics/javascript/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
