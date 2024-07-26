@@ -4,7 +4,7 @@ date: 2021-05-06
 topics: ['SwiftUI']
 ---
 
-> [!NOTE]- Original Post
+> NOTE:
 > I originally posted this blog post to Medium, [here](https://medium.com/@_DandyLyons/7-ways-to-organize-swiftui-code-e786307d3916).
 
 
